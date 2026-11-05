@@ -1,0 +1,6 @@
+{
+  "name": "Divo Trajes - Beneficios Villa Carlos Paz 2027",
+  "description": "App exclusiva de beneficios y sastrería de alta gama para elencos y espectadores de Villa Carlos Paz 2027. Canje con QR, catálogo de obras teatrales y panel de administración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
